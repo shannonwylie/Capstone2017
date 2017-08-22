@@ -20,6 +20,8 @@ You can then run the application in the cloud 9 hosted domain and server.
 - Private Hunts
 - Admin Accounts and Default hunts
 - Password security improvements
+- Password reset email
+- Search bar
 
 ### Creds
 - Development started by 2015 Southwestern University Capstone class
